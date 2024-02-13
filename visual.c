@@ -85,7 +85,7 @@ int main() {
         fprintf(stderr, "ERROR: SDL_INIT_VIDEO\n");
 
     window = SDL_CreateWindow(
-                "NN Visualizer",
+                "NeuroGraphix",
                  WINDOW_X,
                  WINDOW_Y,
                  WINDOW_WIDTH,
